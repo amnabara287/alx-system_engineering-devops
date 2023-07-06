@@ -1,2 +1,1 @@
-#!/bin/bash 
-chgrp shcool hello
+#!/bin/bash
